@@ -1,0 +1,12 @@
+---------[Menu touches by Risko]--------
+
+Pour modifier la bannière il faut modifier le Banner.ytd dans le dossier stream.
+
+Pour modifier les touches c'est dans le rsk_touches.lua ligne 13 à 69 vous modifiez les lettres/noms des touches :D
+
+Pour modifier la touche pour ouvrir le menu c'est dans rsk_touches.lua ligne 8 :D
+
+Mon discord : 📟| Risko#6666
+
+
+/!\ Ce script est gratuit il est interdit de le revendre /!\
